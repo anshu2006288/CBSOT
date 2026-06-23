@@ -94,20 +94,11 @@ Performance was evaluated using metrics such as Accuracy Score, Confusion Matrix
 <h2 style="color:#28B463;">📁 Project Structure</h2>
 
 <pre>
-Titanic-Survival-Prediction/
+CBSOT/
 │
-├── data/
-│   └── titanic.csv
-│
-├── notebooks/
-│   └── titanic_prediction.ipynb
-│
-├── models/
-│   └── trained_model.pkl
-│
+├── titanic.csv
+├── Titanic_Dataset.ipynb/
 ├── README.md
-│
-└── requirements.txt
 </pre>
 
 ---
@@ -124,20 +115,16 @@ cd titanic-survival-prediction
 <h4>2️⃣ Install Dependencies</h4>
 
 <pre>
-pip install -r requirements.txt
+Pste code in Google Collab
 </pre>
 
-<h4>3️⃣ Run Jupyter Notebook</h4>
+<h4>3️⃣ Run Google Collab</h4>
 
 <pre>
 jupyter notebook
 </pre>
 
-<h4>4️⃣ Open the Project Notebook</h4>
-
-<pre>
-notebooks/titanic_prediction.ipynb
-</pre>
+<h4>4️⃣ Open the Project Collab</h4>
 
 ---
 
